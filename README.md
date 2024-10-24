@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f3328cd8-4247-495a-84ff-b4b28633ca22)
+![Creenshot](https://github.com/user-attachments/assets/fd8a4f32-f103-4cf5-a84e-7a0d2666e63e)
 
 # Welcome 🐺
 Joshua "Kloudstartes" Stepherson<br>Age: 32
