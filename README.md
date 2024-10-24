@@ -1,8 +1,3 @@
-<h1 align="center">
- <img src="![Uploading image.png…]()
-" />
-</h1>
-
 # Welcome 🐺
 Joshua "Kloudstartes" Stepherson<br>Age: 32
 
